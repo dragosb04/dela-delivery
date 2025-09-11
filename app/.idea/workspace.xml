@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1caddefb-ebb3-497a-989f-b2ce1075ce91" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,21 +12,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "catalina9085"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;catalina9085&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dragosb04/dela-delivery.git",
-    "accountId": "cf89c6d1-1af8-42c2-b509-413318eecd71"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dragosb04/dela-delivery.git&quot;,
+    &quot;accountId&quot;: &quot;cf89c6d1-1af8-42c2-b509-413318eecd71&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="32MWTFK13SDkqmJQZeuLZXt4fwO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,6 +38,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/catal/IdeaProjects/dela-delivery",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
@@ -60,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757230927205</updated>
       <workItem from="1757230928378" duration="101000" />
+      <workItem from="1757244750024" duration="38000" />
     </task>
     <servers />
   </component>
